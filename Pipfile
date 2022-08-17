@@ -9,6 +9,9 @@ verify_ssl = true
 pandas = "*"
 googlemaps = "*"
 jupyter = "*"
+numpy = "*"
+openpyxl = "*"
+geopy = "*"
 
 [requires]
 python_version = "3.8"
